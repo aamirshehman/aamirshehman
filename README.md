@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aamir Shehman</h1>
-<h3 align="center">Analyst with an extensive experience in sales strategy & business intelligence analysis, data visualization, and data management | Always chasing the next big think in tech | AI/ ML enthusiast.</h3>
+<h3 align="center">Analyst with an extensive experience in sales strategy & business intelligence | Data visualization(Power BI/Tableau), Data management | Always chasing the next big think in tech | AI/ ML enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamirshehman&label=Profile%20views&color=0e75b6&style=flat" alt="aamirshehman" /> </p>
 
